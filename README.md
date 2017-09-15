@@ -1,5 +1,11 @@
 ## 参考サイト
-- https://book.ethereum-jp.net/first_use/connect_to_private_net.html
-- http://www.intellilink.co.jp/article/column/ethereum03.html
-- https://solidity.readthedocs.io/en/develop/
-- https://github.com/ethereum/go-ethereum/wiki/geth
+- プライベート・ネットに接続する · Ethereum入門
+    - https://book.ethereum-jp.net/first_use/connect_to_private_net.html
+- ブロックチェーンEthereum入門 3 | NTTデータ先端技術株式会社
+    - http://www.intellilink.co.jp/article/column/ethereum03.html
+- Solidity — Solidity 0.4.17 documentation
+    - https://solidity.readthedocs.io/en/develop/
+- Geth · ethereum/go-ethereum Wiki
+    - https://github.com/ethereum/go-ethereum/wiki/geth
+- Ethereumクライアント「Geth」を試してみる
+    - http://qiita.com/oggata/items/eea4d5e37f38785f6079

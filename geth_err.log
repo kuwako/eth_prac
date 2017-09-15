@@ -1,0 +1,23 @@
+WARN [09-14|22:37:30] No etherbase set and no accounts found as default 
+INFO [09-14|22:37:30] Starting peer-to-peer node               instance=Geth/v1.6.7-stable-ab5646c5/darwin-amd64/go1.9
+INFO [09-14|22:37:30] Allocated cache and file handles         database=/Users/m_kuwako/dev/eth_prac/geth/chaindata cache=128 handles=1024
+WARN [09-14|22:37:30] Upgrading chain database to use sequential keys 
+INFO [09-14|22:37:30] Database conversion successful 
+INFO [09-14|22:37:30] Initialised chain configuration          config="{ChainID: <nil> Homestead: <nil> DAO: <nil> DAOSupport: false EIP150: <nil> EIP155: <nil> EIP158: <nil> Metropolis: <nil> Engine: unknown}"
+INFO [09-14|22:37:30] Disk storage enabled for ethash caches   dir=/Users/m_kuwako/dev/eth_prac/geth/ethash count=3
+INFO [09-14|22:37:30] Disk storage enabled for ethash DAGs     dir=/Users/m_kuwako/.ethash                  count=2
+WARN [09-14|22:37:30] Upgrading db log bloom bins 
+INFO [09-14|22:37:30] Bloom-bin upgrade completed              elapsed=155.627µs
+INFO [09-14|22:37:30] Initialising Ethereum protocol           versions="[63 62]" network=10
+INFO [09-14|22:37:30] Loaded most recent local header          number=0 hash=7b2e8b…7e0432 td=16384
+INFO [09-14|22:37:30] Loaded most recent local full block      number=0 hash=7b2e8b…7e0432 td=16384
+INFO [09-14|22:37:30] Loaded most recent local fast block      number=0 hash=7b2e8b…7e0432 td=16384
+INFO [09-14|22:37:30] Starting P2P networking 
+INFO [09-14|22:37:30] RLPx listener up                         self="enode://812d3df77d849a4d03fdb411d7976d4440775614c0c2b18e0ae9f64641f452198264a95f22856f5972df1f4a0db018e336a8a9d753ce44ec9fe8227efdedcf49@[::]:30303?discport=0"
+INFO [09-14|22:37:30] IPC endpoint opened: /Users/m_kuwako/dev/eth_prac/geth.ipc 
+INFO [09-14|22:39:03] IPC endpoint closed: /Users/m_kuwako/dev/eth_prac/geth.ipc 
+INFO [09-14|22:39:03] Blockchain manager stopped 
+INFO [09-14|22:39:03] Stopping Ethereum protocol 
+INFO [09-14|22:39:03] Ethereum protocol stopped 
+INFO [09-14|22:39:03] Transaction pool stopped 
+INFO [09-14|22:39:03] Database closed                          database=/Users/m_kuwako/dev/eth_prac/geth/chaindata
