@@ -2073,3 +2073,23 @@ INFO [09-17|23:57:17] Stopping Ethereum protocol
 INFO [09-17|23:57:17] Ethereum protocol stopped 
 INFO [09-17|23:57:17] Transaction pool stopped 
 INFO [09-17|23:57:17] Database closed                          database=/Users/m_kuwako/dev/eth_prac/geth/chaindata
+INFO [09-18|00:26:53] Starting peer-to-peer node               instance=Geth/v1.6.7-stable-ab5646c5/darwin-amd64/go1.9
+INFO [09-18|00:26:53] Allocated cache and file handles         database=/Users/m_kuwako/dev/eth_prac/geth/chaindata cache=128 handles=1024
+INFO [09-18|00:26:53] Initialised chain configuration          config="{ChainID: <nil> Homestead: <nil> DAO: <nil> DAOSupport: false EIP150: <nil> EIP155: <nil> EIP158: <nil> Metropolis: <nil> Engine: unknown}"
+INFO [09-18|00:26:53] Disk storage enabled for ethash caches   dir=/Users/m_kuwako/dev/eth_prac/geth/ethash count=3
+INFO [09-18|00:26:53] Disk storage enabled for ethash DAGs     dir=/Users/m_kuwako/.ethash                  count=2
+INFO [09-18|00:26:53] Initialising Ethereum protocol           versions="[63 62]" network=10
+INFO [09-18|00:26:53] Loaded most recent local header          number=429 hash=815abb…754e5f td=62228112
+INFO [09-18|00:26:53] Loaded most recent local full block      number=429 hash=815abb…754e5f td=62228112
+INFO [09-18|00:26:53] Loaded most recent local fast block      number=429 hash=815abb…754e5f td=62228112
+WARN [09-18|00:26:53] Blockchain not empty, fast sync disabled 
+INFO [09-18|00:26:53] Starting P2P networking 
+INFO [09-18|00:26:53] RLPx listener up                         self="enode://812d3df77d849a4d03fdb411d7976d4440775614c0c2b18e0ae9f64641f452198264a95f22856f5972df1f4a0db018e336a8a9d753ce44ec9fe8227efdedcf49@[::]:30303?discport=0"
+INFO [09-18|00:26:53] IPC endpoint opened: /Users/m_kuwako/dev/eth_prac/geth.ipc 
+INFO [09-18|00:26:55] Mapped network port                      proto=tcp extport=30303 intport=30303 interface="UPNP IGDv2-IP1"
+INFO [09-18|00:43:21] IPC endpoint closed: /Users/m_kuwako/dev/eth_prac/geth.ipc 
+INFO [09-18|00:43:21] Blockchain manager stopped 
+INFO [09-18|00:43:21] Stopping Ethereum protocol 
+INFO [09-18|00:43:21] Ethereum protocol stopped 
+INFO [09-18|00:43:21] Transaction pool stopped 
+INFO [09-18|00:43:21] Database closed                          database=/Users/m_kuwako/dev/eth_prac/geth/chaindata
